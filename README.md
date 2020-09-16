@@ -15,3 +15,6 @@ Metodologia da Pesquisa Cientifico Tecnologica-A-N-Banco de Dados-146-20202
 ### Proposta de Solução
 
 -   Um portal (quem sabe um aplicativo mobile), no estilo Mercado Livre, em que os usuários/clientes acessam, procuram pelo serviço que desejam e escolhem as opções que sejam do agrado deles, analisando as avaliações daquele prestador e daquele serviço. O usuário/prestador de serviços terá o seu cadastro e o cadastro de seus serviços disponíveis, o cliente e prestador podem trocar mensagens sobre um determinado serviço, o cliente pode enviar avaliações sobre o serviço. Tudo isso de forma gratuita, apenas com objetivo de auxiliar os prestadores de serviços pouco conhecidos e com serviços de ótima qualidade.
+
+### Referências
+-   https://respostas.sebrae.com.br/15-sites-para-anunciar-gratis-na-internet-e-impulsionar-seu-negocio-ou-servico/ - acesso em 16/09/2020 as 20:45
