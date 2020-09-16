@@ -6,7 +6,7 @@ Metodologia da Pesquisa Cientifico Tecnologica-A-N-Banco de Dados-146-20202
 
 ### Problema
 
--   A falta de conhecimento dos habitantes de uma cidade sobre os prestadores de serviços locais, seus respectivos serviços e preços e a qualidade do serviço.
+-   A falta de conhecimento dos habitantes de uma cidade sobre os prestadores de serviços locais, seus respectivos serviços e preços e a qualidade do serviço e a falta de uma ferramenta/sistema gratuito para divulgação desses serviços/prestadores.
 
 ### Motivação
 
